@@ -1,10 +1,12 @@
 # Github101
 All in one repo for your github problems!
 
-# Whats Github?
+# What's Github?
 
 ## Difference between git and github?
+![Screenshot](Gitvs_Github-1a-1.webp)
 
+![Screenshot](1_NP_GK24IxuH89G8b3Uq5PQ.png)
 
 
 Github Daily
@@ -15,7 +17,7 @@ a. git init
 b. git clone <https link for the existing github repo>
 c. Make your code changes
 d. git add -A
-e. git commit -m ÒThis is my first commitÓ
+e. git commit -m "This is my first commit"
 f. git push --set-upstream origin master
 <Note here: your default branch could be named  "master" or "main"; check git branch --list>
 
