@@ -23,3 +23,23 @@ f. git push --set-upstream origin master
 
 ```
 
+
+#### 2. Inspect and Compare:
+```
+git log
+>>> show commits in the current branch history
+git log branchB...branchA
+>>> show commits that are in A and not in B, no space in b/w dots
+
+```
+#### 3. Branches:
+```
+git branch -l
+>>> List all the branches in your repo
+git checkout -b branch1
+>>> Checkout/Create  a new branch branch1
+git checkout master
+>>> Switch to branch master
+
+
+```
