@@ -14,6 +14,14 @@ All in one repo for your github problems!
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Normal Text
+```
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Hello`
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Normal Text
+
+```
+
 
 ```diff
 - text in red
@@ -23,6 +31,19 @@ All in one repo for your github problems!
 # text in gray
 @@ text in purple (and bold)@@
 Some normal text in here!
+```
+
+```
+```diff
+- text in red
+- more text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+Some normal text in here!
+```
+
 ```
 
 
